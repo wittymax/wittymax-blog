@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://blog.wittymax.com/hello-world/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/about/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/site-notice/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/tags/bookcase/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/tags/lamb/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/categories/metaphorsum/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/tags/nothing/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/page/</loc>
+    <lastmod>2018-02-09T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/categories/post/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/post/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/tags/shell/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/tags/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.wittymax.com/</loc>
+    <lastmod>2019-03-22T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>

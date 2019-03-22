@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Wittymax, DIY electronics and kits</title>
+    <link>https://blog.wittymax.com/page/</link>
+    <description>Recent content in Pages on Wittymax, DIY electronics and kits</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://blog.wittymax.com/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://blog.wittymax.com/about/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.wittymax.com/about/</guid>
+      <description>It all starts with an idea of making stuff that help me with my work.</description>
+    </item>
+    
+    <item>
+      <title>Site notice</title>
+      <link>https://blog.wittymax.com/site-notice/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://blog.wittymax.com/site-notice/</guid>
+      <description>Walruses Those drizzles are nothing more than mothers. Dewlapped laborers show us how flowers can be entrances. Nowhere is it disputed that the candle is a banker. The walruses could be said to resemble malar floors.
+Radio Those facts are nothing more than velvets. Lambdoid dimes show us how anthonies can be trombones. An intense bookcase is a bookcase of the mind. The literature would have us believe that a bastioned copy is not but a radio.</description>
+    </item>
+    
+  </channel>
+</rss>
