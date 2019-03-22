@@ -1,4 +1,3 @@
-baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Wittymax, DIY electronics and kits"
 theme = "hugo-natrium-theme"
